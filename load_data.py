@@ -1,3 +1,7 @@
+# Lee un CSV de resultados y cuotas de football-data.co.uk y lo carga en
+# Postgres: crea los equipos si no existen, inserta los partidos (sin duplicar)
+# y registra las cuotas de apertura y cierre de Pinnacle y Bet365 para los
+# mercados 1X2 y Over/Under 2.5.
 
 """
 
